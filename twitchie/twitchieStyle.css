@@ -1,0 +1,11 @@
+body {
+  background-color: purple;
+  text-align: center;
+}
+#ESL,
+#FCC {
+  color: green;
+}
+#credits {
+  color: red;
+}

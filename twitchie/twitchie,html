@@ -1,0 +1,34 @@
+<link rel= "stylesheet"
+      type="text/css"
+      href="twitchieStyle.css">
+<script type="text/javascript" src="twitchieJS.js"></script> 
+<body>
+  <h1> Twitchie </h1></br>
+  <button id="all"> All </button>
+  <button id="online"> Online </button>
+  <button id="offline"> Offline </button>
+  </br>
+  </br>
+  <div id="FCC">
+    <img id="FCCpic" src=" ">
+    </br>
+    </br>
+    <p> Channel:
+      <a id=FreeCC href="https://go.twitch.tv/freecodecamp"> <a/> </p>
+    <p id="statusFCC">Status: </p>
+    <p id="streamFCC"></p>
+    </div>
+    </br>
+    <div id="ESL">
+      <img id="ESLpic" src=" ">
+      </br>
+      </br>
+      <p>Channel:
+        <a id=Esl href="https://go.twitch.tv/esl_sc2"> <a/> </p>
+      <p id="statusESL">Status: </p>
+      <p id="streamESL"></p>
+
+    </div>
+    </br>
+    <p id="credits">Made by<a href="https://codepen.io/pizzaz93/"> Twitchy Fingers </a> 17'</p>
+</body>
