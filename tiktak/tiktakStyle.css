@@ -1,0 +1,75 @@
+body {
+  background-color: black;
+  font-family: verdana, sans-serif;
+  color: white;
+}
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header {
+  margin-top: 10px;
+}
+button {
+  color: blue;
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.select > form {
+  display: inline-block;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+h2 {
+  margin-bottom: 30px;
+}
+
+.tictactoe {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+/* setting font-size of row to 0px
+   to prevent indentation/margin row*/
+/* .row {
+  font-size: 0px;
+} */
+.row > div {
+  margin: 0px;
+  display: inline-block;
+  font-size: 90px;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  padding: 0px;
+  vertical-align: top;
+  line-height: 100px;
+}
+
+.right {
+  border-right: solid 7px white;
+}
+
+.bottom {
+  border-bottom: solid 7px white;
+}
+
+.resetGame {
+  font-size: 20px;
+  background-color: gray;
+}
+
+#message {
+  /* display: inline-block; */
+  text-align: center;
+}
