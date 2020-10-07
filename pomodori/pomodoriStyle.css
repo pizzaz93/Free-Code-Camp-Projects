@@ -1,0 +1,25 @@
+body {
+  background-color: dark;
+  text-align: center;
+}
+h1 {
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal,
+    "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+}
+#time {
+  background-color: yellow;
+  display: inline;
+  font-size: 40px;
+}
+#break {
+  background-color: blue;
+  display: inline;
+  font-size: 40px;
+}
+#start {
+  font-size: 45px;
+}
+#session,
+#breakTime {
+  font-size: 30px;
+}
